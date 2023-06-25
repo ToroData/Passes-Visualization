@@ -5,7 +5,6 @@ seaborn
 matplotlib
 urllib3
 Pillow
-PyPizza
 scipy
 plotly
 dash
