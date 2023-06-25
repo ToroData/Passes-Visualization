@@ -1,0 +1,14 @@
+pandas
+statsbombpy
+mplsoccer
+seaborn
+matplotlib
+urllib3
+Pillow
+PyPizza
+scipy
+plotly
+dash
+dash-core-components
+dash-html-components
+wikipedia-api
